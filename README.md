@@ -40,3 +40,12 @@ issue 的内容如下（当然现在它已被删除）：
 
 #### 2. 官方修改了什么 issue 
 
+https://github.com/THUDM/GLM-4/issues/1
+
+![image](https://github.com/zwy4896-2/GLM4/assets/171821587/514ef69b-24fe-4cec-b7d8-f411c1910d9a)
+
+https://github.com/THUDM/GLM-4/issues/2
+
+![image](https://github.com/zwy4896-2/GLM4/assets/171821587/0cdd04d5-5cea-42bf-ba08-eedf6b34640d)
+
+
